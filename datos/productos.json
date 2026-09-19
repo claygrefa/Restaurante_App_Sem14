@@ -1,0 +1,30 @@
+[
+    {
+        "id": "P001",
+        "nombre": "Encebollado",
+        "categoria": "Plato fuerte",
+        "precio": 3.5,
+        "stock": 20
+    },
+    {
+        "id": "P002",
+        "nombre": "Bolón de verde",
+        "categoria": "Desayuno",
+        "precio": 2.75,
+        "stock": 15
+    },
+    {
+        "id": "P003",
+        "nombre": "Jugo de naranja",
+        "categoria": "Bebida",
+        "precio": 1.5,
+        "stock": 30
+    },
+    {
+        "id": "A001",
+        "nombre": "LLAPINGACHO",
+        "categoria": "Desayuno",
+        "precio": 3.0,
+        "stock": 25
+    }
+]
